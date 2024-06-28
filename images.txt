@@ -3,4 +3,5 @@ kasmweb/nginx:1.25.3
 xhofe/alist:latest
 xiaoyaliu/alist
 homeassistant/home-assistant
+whyour/qinglong/
 --platform=linux/arm64 xiaoyaliu/alist
